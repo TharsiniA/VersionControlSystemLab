@@ -3,3 +3,6 @@ Welcome to learn about Github
 
 Hi mate this is from branch
 Have added new modification
+
+This is a test line for Git conflict: main branch
+Hi mate this is test!!!
